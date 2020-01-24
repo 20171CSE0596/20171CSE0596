@@ -15,8 +15,7 @@ printf("the array elements are");
 scanf("%d",&a[i]);
 }
 }
+
+printf("kuch bhi");
+
 }
-
-
-
-
