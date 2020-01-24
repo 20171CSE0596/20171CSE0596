@@ -16,6 +16,6 @@ scanf("%d",&a[i]);
 }
 }
 
-printf("conflict karna hai");
+printf("conflict kar diya");
 
 }
