@@ -16,6 +16,6 @@ scanf("%d",&a[i]);
 }
 }
 
-printf("kuch bhi");
+printf("kuch bhi 2");
 
 }
